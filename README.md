@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Autovista**
 
-- 💬 Ask me about **flutter, dart, android, java**
+- 💬 Ask me about **Flutter, Dart, Android, Java**
 
 - 📫 How to reach me **jibinnajith94@gmail.com**
 
