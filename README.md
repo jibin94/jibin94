@@ -17,7 +17,8 @@
 ### ⚙️ Tech stack  
   
 + [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
-+ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
++ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)
++ [![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com) 
 + [![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=flat&logo=firebase&logoColor=%23ffcd35)](http://flutter.dev/)
 
 
