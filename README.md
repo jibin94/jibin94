@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jibin N Ajith</h1>
 <h3 align="center">A passionate mobile app developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin94&label=Profile%20views&color=0e75b6&style=flat" alt="jibin94" /> </p>
-
 - 🔭 I’m currently working on **Safa Waters**
 
 - 💬 Ask me about **Flutter, Dart, Android, Java**
