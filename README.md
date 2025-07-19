@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Safa Waters**
 
-- 💬 Ask me about **Flutter, Dart, Android, Java**
+- 💬 Ask me about **Flutter, Dart, Android, Java, Kotlin**
 
 - 📫 How to reach me **jibinnajith94@gmail.com**
 
